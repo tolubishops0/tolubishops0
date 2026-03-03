@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm Tolu — Frontend Engineer
 
-<!--
-**tolubishops0/tolubishops0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on real-time features, AI integrations, and fintech tools across multiple products
+🌱 I'm currently levelling up on performance optimization and system design
+👯 I'm looking to collaborate on open source React/Next.js projects or anything with real-time features
+💬 Ask me about React, TypeScript, Next.js, WebSockets, or integrating third-party SDKs
+📫 How to reach me: [[Instagram URL](https://www.instagram.com/tolubishops)] | [[Twitter URL](https://x.com/tolubishops)] 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 &nbsp;**Stack**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+
