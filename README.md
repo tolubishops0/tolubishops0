@@ -1,10 +1,10 @@
 👋 Hey, I'm Tolu — Frontend Engineer
 
-🔭 I'm currently working on real-time features, AI integrations, and fintech tools across multiple products
-🌱 I'm currently levelling up on performance optimization and system design
-👯 I'm looking to collaborate on open source React/Next.js projects or anything with real-time features
-💬 Ask me about React, TypeScript, Next.js, WebSockets, or integrating third-party SDKs
-📫 How to reach me: [[Linkedin](https://www.linkedin.com/in/tjoyo/)] | [[Instagram](https://www.instagram.com/tolubishops)] | [[Twitter ](https://x.com/tolubishops)] 
+- 🔭 I'm currently working on real-time features, AI integrations, and fintech tools across multiple products
+- 🌱 I'm currently levelling up on performance optimization and system design
+- 👯 I'm looking to collaborate on open source React/Next.js projects or anything with real-time features
+- 💬 Ask me about React, TypeScript, Next.js, WebSockets, or integrating third-party SDKs
+- 📫 How to reach me: [[Linkedin](https://www.linkedin.com/in/tjoyo/)] | [[Instagram](https://www.instagram.com/tolubishops)] | [[Twitter ](https://x.com/tolubishops)] 
 
 ---
 
